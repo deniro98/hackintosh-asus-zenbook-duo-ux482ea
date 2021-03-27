@@ -1,0 +1,1 @@
+# hackintosh-asus-zenbook-duo-ux482ea
