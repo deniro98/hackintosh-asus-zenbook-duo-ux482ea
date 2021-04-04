@@ -4,7 +4,7 @@ Let's start create Hackintosh with OpenCore on Intel 11th Gen!
 
 # System specification
 
-    1.Name:           Asus Zenbook Duo UX483EA
+    1.Name:           Asus Zenbook Duo UX482EA
     2.CPU:            Intel Core i5-1135G7
     3.Graphic:        Intel Iris Xe
     4.Wifi:           ? 
