@@ -1,4 +1,4 @@
-# hackintosh-asus-zenbook-duo-ux482ea
+# Tiger Lake hackintosh with OpenCore | Asus Zenbook Duo UX482
 
 Let's start create Hackintosh with OpenCore on Intel 11th Gen!
 
