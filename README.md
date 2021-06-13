@@ -17,8 +17,7 @@ Let's start create Hackintosh with OpenCore on Intel 11th Gen!
     9.Bios Version:   302
 
 # Know problems
-
-  Nothing working :(
+    Everything except GPU works perfectly!
 
 some tags for search:
 
