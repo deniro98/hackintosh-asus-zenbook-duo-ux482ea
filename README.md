@@ -22,3 +22,7 @@ Let's start create Hackintosh with OpenCore on Intel 11th Gen!
 some tags for search:
 
 - Hackintosh Opencore intel core i5-11th gen 
+
+# Success Install Other This Repo
+
+[NTHT1MD HP Pavilion based on i3-1115G4](https://github.com/NTHT1MD/Hackintosh_Opencore_HP-Pavilion-X360-dw1016TU-i3)
